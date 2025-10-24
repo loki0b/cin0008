@@ -1,0 +1,13 @@
+|labThree
+OUT <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+D => notD.IN0
+D => notABCD.IN0
+A => AnotD.IN1
+A => notA.IN0
+A => AnotBnotC.IN2
+B => notB.IN0
+B => notABCD.IN2
+C => notABCD.IN1
+C => notC.IN0
+
+
