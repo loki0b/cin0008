@@ -1,0 +1,35 @@
+|decoderBCD7segments
+c <= inst13.DB_MAX_OUTPUT_PORT_TYPE
+in_D => inst5.IN0
+in_D => inst14.IN0
+in_D => inst16.IN0
+in_D => inst20.IN0
+in_D => inst22.IN0
+in_D => inst23.IN0
+in_D => inst24.IN0
+in_D => inst8.IN0
+in_D => inst11.IN0
+in_C => inst13.IN1
+in_C => inst4.IN0
+in_C => inst16.IN1
+in_C => inst21.IN0
+in_C => inst23.IN1
+in_C => inst24.IN1
+in_C => inst12.IN1
+in_B => inst3.IN0
+in_B => inst15.IN2
+in_B => inst16.IN2
+in_B => inst19.IN1
+in_B => inst24.IN2
+in_B => inst7.IN2
+in_B => inst11.IN2
+in_B => inst12.IN2
+d <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+in_A => inst.IN0
+e <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+f <= inst18.DB_MAX_OUTPUT_PORT_TYPE
+g <= inst26.DB_MAX_OUTPUT_PORT_TYPE
+a <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+b <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+
+
